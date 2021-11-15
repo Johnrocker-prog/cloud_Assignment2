@@ -2,7 +2,7 @@
 
 1.Create a account in aws QuickSight (https://aws.amazon.com/quicksight/).
 
-2.Upload any type (.csv, .tsv, .clf, .elf, .xlsx, .json) file .
+2.Upload any type (.csv, .tsv, .clf, .elf, .xlsx, .json) file.
 
 3.If u want to remove unwanted data from file for visualization.
 
@@ -14,7 +14,7 @@
 
 7.At the bottom side there are lot of visual types for visualise.
 
-8.Choose any one of the visual type 
+8.Choose any one of the visual type.
 
 9.After selecting visual type we will get a different types of  requirements for every visual type.
 
