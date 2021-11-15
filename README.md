@@ -1,6 +1,6 @@
 # Steps
 
-1.Create a account in aws QuickSight.
+1.Create a account in aws QuickSight (https://aws.amazon.com/quicksight/).
 
 2.Upload any type (.csv, .tsv, .clf, .elf, .xlsx, .json) file .
 
